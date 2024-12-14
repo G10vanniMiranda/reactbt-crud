@@ -182,7 +182,7 @@ function App() {
           <tr>
             <td scope='row'>4</td>
             <td>Monitor Gamer</td>
-            <td>$7.500</td>
+            <td>$3.500</td>
             <td>2</td>
 
             <td>
