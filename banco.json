@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "kit teclado",
+      "valor": "R$ 200,00",
+      "quantidade": 20,
+      "foto": "https://www.lognetinfo.com.br/imagens/original/18660A.jpg"
+    },
+    {
+      "id": 2,
+      "produto": "Notebook Dell",
+      "valor": "R$ 2.500,00",
+      "quantidade": 12,
+      "foto": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/g-series/g15-5530/media-gallery/gray/non-touch/coral/notebook-laptop-g15-5530-gray-gallery-1-v2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=554&qlt=100,1&resMode=sharp2&size=554,402&chrss=full"
+    },
+    {
+      "id": "4b68",
+      "produto": "TV Smart",
+      "valor": "R$2.600,00",
+      "quantidade": "16",
+      "foto": "https://t62533.vteximg.com.br/arquivos/ids/585476-1000-1000/tv-samsung-32-led-smart-hd-usb-hdr-tizen-2.jpg?v=638012855961300000"
+    },
+    {
+      "id": "1eaa",
+      "produto": "Ps 5",
+      "valor": "R$4.500,00",
+      "quantidade": "112",
+      "foto": "https://images.kabum.com.br/produtos/fotos/636960/console-playstation-5-pro-sony-ssd-2tb-controle-sem-fio-dualsense-branco-1000046552_1727095996_gg.jpg"
+    }
+  ]
+}
